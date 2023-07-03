@@ -1,0 +1,6 @@
+      <div class="bg-white shadow rounded-lg p-4" id="">
+        <img src="book1.jpg" alt="Ebook 1" class="mb-4">
+        <h2 class="text-lg font-semibold">The Untold Story Of Love Vol2</h2>
+        <p class="text-gray-600 mb-4">Soumalya Gore</p>
+        <button class="px-4 py-2 text-sm text-white bg-blue-500 rounded hover:bg-blue-600 rounded-3xl" onclick="tlvol2()">Download</button>
+      </div>
