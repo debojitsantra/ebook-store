@@ -8,3 +8,7 @@ function viewmore() {
 function tlvol1() {
   window.location.href="./book/The_Untold_Story Of_Love_vol1.pdf"
 }
+function home() {
+  window.location.href="./index.html"
+}
+
