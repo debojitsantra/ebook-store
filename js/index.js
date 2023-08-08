@@ -1,11 +1,8 @@
-function home() {
-  window.href.location("/index.html")
-}
 
 const bookList = document.getElementById("bookList");
 
 const books = [
-    { title: "The Untold Story Of Love Vol 2", author: "Soumalya Gore", cover: "book/img/tusl2.png", downloadLink: "book/The_Untold_Story_Of_Love_vol2.pdf" },
+    { title: "The Untold Story Of Love Vol 2", author: "Soumalya Gore", cover: "book/img/tusl2.png", downloadLink: "book/The_Untold_Story_of_Love_vol2.pdf" },
     // Add more books here
 ];
 
